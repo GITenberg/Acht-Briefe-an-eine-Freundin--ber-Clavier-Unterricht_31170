@@ -1,0 +1,31 @@
+_repo: Acht-Briefe-an-eine-Freundin--ber-Clavier-Unterricht_31170
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kinkel, Johanna
+    aliases:
+    - Mathieux, Johanna
+    - Mockel, Johanna
+    birthdate: 1810
+    deathdate: 1858
+    gutenberg_agent_id: '35038'
+    url: http://www.gutenberg.org/2009/agents/35038
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2010-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31170'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'MT'
+- !lcsh 'Piano -- Instruction and study'
+- !lcsh 'Music'
+title: Acht Briefe an eine Freundin über Clavier-Unterricht
+url: http://www.gutenberg.org/ebooks/31170
